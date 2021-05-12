@@ -9,7 +9,8 @@
 | 5  | UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning | ACL 2021 |[2012.15409](https://arxiv.org/abs/2012.15409)|[UNIMO](https://github.com/weili-baidu/UNIMO)|
 | 6  | InterBERT: Vision-and-Language Interaction for Multi-modal Pretraining | |[2003.13198](https://arxiv.org/abs/2003.14198)| |
 | 7  | M6: A Chinese Multimodal Pretrainer | |[2103.00823](https://arxiv.org/abs/2103.00823)| |
-| 8  | VinVL: Revisiting Visual Representations in Vision-Language Models | CVPR 2021 |[2101.00529](https://arxiv.org/abs/2101.00529)|[VinVL](https://github.com/pzzhang/VinVL)|
+| 8  | ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision | ICML 2021 |[2102.03334](https://arxiv.org/abs/2102.03334)|[ViLT](https://github.com/dandelin/ViLT)|
+| 9  | VinVL: Revisiting Visual Representations in Vision-Language Models | CVPR 2021 |[2101.00529](https://arxiv.org/abs/2101.00529)|[VinVL](https://github.com/pzzhang/VinVL)|
 
 
 
